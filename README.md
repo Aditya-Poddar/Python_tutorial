@@ -6,5 +6,5 @@ You should have a little knowledge of Jupiter Notebook.
 Anaconda must be already installed in your system.
 # Link for Software download
 https://www.anaconda.com/products/individual
-# .Learn Python...!!
-# .Happy Learning...!!
+# .Learn Python....!!
+# .Happy Learning....!!

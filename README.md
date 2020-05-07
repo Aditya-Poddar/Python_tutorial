@@ -1,4 +1,4 @@
-# python_tutorial
+# Python_tutorial
 This course is for beginers  who wants to learn python3. 
 
 # Prerequisite 
